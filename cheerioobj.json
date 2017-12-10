@@ -1,0 +1,70 @@
+initialize {
+    '0':
+     { type: 'tag',
+       name: 'p',
+       attribs: { class: 'author' },
+       children: [ [Object], [Object] ],
+       next:
+        { type: 'tag',
+          name: 'div',
+          attribs: [Object],
+          children: [],
+          next: [Object],
+          prev: [Circular],
+          parent: [Object] },
+       prev:
+        { type: 'tag',
+          name: 'h2',
+          attribs: [Object],
+          children: [Array],
+          next: [Circular],
+          prev: [Object],
+          parent: [Object] },
+       parent:
+        { type: 'tag',
+          name: 'div',
+          attribs: [Object],
+          children: [Array],
+          next: [Object],
+          prev: [Object],
+          parent: [Object] } },
+    options:
+     { withDomLvl1: true,
+       normalizeWhitespace: false,
+       xmlMode: false,
+       decodeEntities: true },
+    _root:
+     initialize {
+       '0':
+        { type: 'tag',
+          name: 'div',
+          attribs: [Object],
+          children: [Array],
+          next: [Object],
+          prev: [Object],
+          parent: [Object] },
+       options:
+        { withDomLvl1: true,
+          normalizeWhitespace: false,
+          xmlMode: false,
+          decodeEntities: true },
+       length: 1,
+       _root: [Circular] },
+    length: 1,
+    prevObject:
+     initialize {
+       '0':
+        { type: 'tag',
+          name: 'div',
+          attribs: [Object],
+          children: [Array],
+          next: [Object],
+          prev: [Object],
+          parent: [Object] },
+       options:
+        { withDomLvl1: true,
+          normalizeWhitespace: false,
+          xmlMode: false,
+          decodeEntities: true },
+       length: 1,
+       _root: [Circular] } }

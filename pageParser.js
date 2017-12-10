@@ -4,7 +4,7 @@
  * 
  * Rader som har ett felaktigt format markeras med ===.  
 */
-cheerio = require('cheerio');
+cheerio = requir e('cheerio');
  
 
 function listfunc(i,element) {

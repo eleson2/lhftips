@@ -3,6 +3,7 @@
  * Anv:  node pageParser
  * 
  * Rader som har ett felaktigt format markeras med ===.  
+ * Producerad utfil behover editeras och justeras 
 */
 cheerio = require('cheerio');
  
